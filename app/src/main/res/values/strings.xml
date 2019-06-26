@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyCurrency</string>
+    <string name="no_connection">No connection</string>
+    <string name="_1">1</string>
+    <string name="to">to</string>
+    <string name="convert">Convert</string>
+    <string name="todo">TODO</string>
+    <string name="data_page">Data page</string>
+    <string name="authorization">Authorization</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="graph">Graph</string>
+    <string name="videos">Videos</string>
+    <string name="some_lectures_about_the_financial_market">Some lectures about the financial market</string>
+    <string name="sign_in">Sign in</string>
+</resources>
